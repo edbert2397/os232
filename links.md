@@ -17,3 +17,5 @@ Mempelajari basic dalam vi/vim
 explain virtual hard disk
 5.[Nano Editor Fundamentals] (https://www.youtube.com/watch?v=gyKiDczLIZ4) <br>
 mempelajari basic nano
+6[Bash Script Tutorial] (https://www.youtube.com/watch?v=tK9Oc6AEnR4) <br>
+mempelajari script bash

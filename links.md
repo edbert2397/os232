@@ -19,3 +19,5 @@ explain virtual hard disk
 mempelajari basic nano
 6[Bash Script Tutorial] (https://www.youtube.com/watch?v=tK9Oc6AEnR4) <br>
 mempelajari script bash
+7. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) <br>
+This video will give you an overview of the top-level directories found on most Linux systems.

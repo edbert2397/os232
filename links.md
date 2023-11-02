@@ -21,3 +21,13 @@ mempelajari basic nano
 mempelajari script bash
 7. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM) <br>
 This video will give you an overview of the top-level directories found on most Linux systems.
+
+8.[fork() and exec() system calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+studying fork() system calls
+
+9. [threading issues] (https://www.youtube.com/watch?v=o2Sf0GHWpmk) <br>
+studying thread
+
+10. [introduction to threads] (https://www.youtube.com/watch?v=LOfGJcVnvAk) <br>
+introduction to threads
+

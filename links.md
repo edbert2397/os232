@@ -31,3 +31,8 @@ studying thread
 10. [introduction to threads] (https://www.youtube.com/watch?v=LOfGJcVnvAk) <br>
 introduction to threads
 
+11.[Deadlock in operating system] (https://www.youtube.com/watch?v=onkWXaXAgbY) <br>
+Deadlock in operating system
+
+12. [4 conditions of deadlock] (https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
+4 conditions of deadlocks

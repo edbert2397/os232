@@ -40,3 +40,9 @@ ZCZC W07 200 L02 Classroom
 ZCZC W07 100 L17 Week 07 Assignment
 ZCZC W07 30 L07 study
 ZCZC W07 7 L05 popquiz W07
+
+ZCZC W08 200 L02 Classroom
+ZCZC W08 502 L18 Week 08 Assignment
+ZCZC W08 30 L08 study
+ZCZC W08 7 L05 Quiz W08
+ZCZC W08 20 L05 Popquiz W08

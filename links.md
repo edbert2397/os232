@@ -36,3 +36,12 @@ Deadlock in operating system
 
 12. [4 conditions of deadlock] (https://www.youtube.com/watch?v=UVo9mGARkhQ) <br>
 4 conditions of deadlocks
+
+13. [Chapter 5: How to build linux from scratch] (https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) <br>
+Give clear explanation about chapter 5 weekly assignment 8
+
+14. [Chapter 4: How to build linux from scratch] (https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=8) <br>
+Give clear explanation about chapter 4 weekly assignment 8
+
+15. [Linux in 100 seconds] (https://www.youtube.com/watch?v=rrB13utjYV4) <br>
+Give simple explanation in linux
